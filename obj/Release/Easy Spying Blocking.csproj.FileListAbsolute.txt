@@ -1,0 +1,9 @@
+C:\c#範列\WinHostEdit\Easy Spying Blocking\bin\Release\Easy Spying Blocking.exe.config
+C:\c#範列\WinHostEdit\Easy Spying Blocking\obj\Release\Easy_Spying_Blocking.AboutBox.resources
+C:\c#範列\WinHostEdit\Easy Spying Blocking\obj\Release\Easy_Spying_Blocking.Form1.resources
+C:\c#範列\WinHostEdit\Easy Spying Blocking\obj\Release\Easy_Spying_Blocking.Properties.Resources.resources
+C:\c#範列\WinHostEdit\Easy Spying Blocking\obj\Release\Easy_Spying_Blocking.TprogressBar.resources
+C:\c#範列\WinHostEdit\Easy Spying Blocking\obj\Release\Easy Spying Blocking.csproj.GenerateResource.cache
+C:\c#範列\WinHostEdit\Easy Spying Blocking\obj\Release\Easy Spying Blocking.csproj.CoreCompileInputs.cache
+C:\c#範列\WinHostEdit\Easy Spying Blocking\obj\Release\Easy Spying Blocking.exe
+C:\c#範列\WinHostEdit\Easy Spying Blocking\obj\Release\Easy Spying Blocking.pdb
